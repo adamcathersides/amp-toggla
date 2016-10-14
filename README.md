@@ -1,7 +1,7 @@
 # amp-toggla
 A simple python script that controls a Rasberry Pi's GPIO in order to switch an amplifier on during media playback.
 
-There are two versions of this script.  One for chromecast and one for Logitech Media Server (LMS).  Both versions are very simiar in operation, however i have moved away from using LMS so that script may or may not work with later versions of LMS.
+There are two versions of this script.  One for chromecast and one for Logitech Media Server (LMS).  Both versions are very simiar in operation, however i have moved away from using LMS so this version may or may not work with later versions of LMS.
 
 # Requirements
 
