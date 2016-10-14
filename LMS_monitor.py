@@ -12,7 +12,7 @@ gpio_channels = [23, 24]
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(gpio_channels, GPIO.OUT)
 
-#Connect to chromecast to its monitor state
+#Connect to LMS and monitor its state
 
 server = Server(hostname="LMS-server", port=9090)
 server.connect()
