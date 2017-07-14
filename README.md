@@ -25,7 +25,7 @@ If the chromecast or LMS is set to play while in this time delay routine the scr
 
 # GPIO and Relays
 
-The relay board that I use seems to break contact when a 1 is set.  Therefore is looks as though the logic is reversed in the script, but this is just the way it works in my case.
+The relay board that I use seems to break go open circuit when a 1 is set (the reverse of what i thought would happen).  Therefore it looks as though the logic is reversed in the script, but this is just the way it works in my case.
 
 
 
